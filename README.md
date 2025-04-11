@@ -5,6 +5,6 @@ This is Project-1 of EW-2 (EC2.202), Spring 2025. The design goes over theoretic
 - CE Stage
 - Active Bandpass Filter (20Hz-20kHz)
 - Power Amplifier
-- 
+
 ## Report
 All details related to the project are included in `amplifier_report`. Components used are included in the corresponding folder.
